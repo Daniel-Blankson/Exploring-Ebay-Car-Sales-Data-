@@ -1,2 +1,2 @@
-# Exploring-Ebay-Car-Sales-Data-
+# Exploring Ebay Car Sales Data
 This is a guided project from dataquest, designed to delvelop the skills used for exploring data using pandas and NumPY libraries, as well as data cleaning. The dataset used in this project is from eBay Kleinanzeigen, a classifieds section of the German eBay website, with 50,000 data points sampled from the original dataset to ensure fast running code, and the dataset 'dirtied' a bit, to better resemble a scraped dataset
